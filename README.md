@@ -6,9 +6,9 @@ Student ID: 700741375
 
 CRN: 22280
 
-Here is the link to my Document with description : 
+Here is the link to my Document with description : https://docs.google.com/document/d/1Ke3yowqr_xBh1xz8FjjnogJdubi4UKsH/edit?usp=sharing&ouid=105504848771921479066&rtpof=true&sd=true
 
-Here is the link to my Video : 
+Here is the link to my Video : https://drive.google.com/file/d/1fIY_HaayrpGd1K5W-kHz7XqoifUJ00iF/view?usp=drive_link
 
 Provide logical description of which steps lead to improved response and what was its impact on architecture behavior
 There were several changes made to the baseline LeNet model to improve its performance on the CIFAR-10 dataset. Here is a description of the changes made and their impact:
